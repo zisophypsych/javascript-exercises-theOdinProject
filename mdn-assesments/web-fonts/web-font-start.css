@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'game_of_squidsregular';
+    src: url('fonts/game_of_squids-webfont.woff2') format('woff2'),
+         url('fonts/game_of_squids-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'mothproofscriptregular';
+    src: url('fonts/mothproof_script-webfont.woff2') format('woff2'),
+         url('fonts/mothproof_script-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+p{
+    font-family: 'mothproofscriptregular', sans-serif;
+}
+
+h1,h2{
+    font-family: 'game_of_squidsregular', sans-serif ;
+}
